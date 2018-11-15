@@ -1,0 +1,19 @@
+/*
+Theme Name: projectOrcamento
+Theme URI: http://samuelmbote.com.br
+Description: Controle seus gastos
+Author: Samuel MBote
+Author URI: http://samuelmbote.com.br
+Version: 1.0
+*/
+@import "assets/css/styleOrcamento.css";
+@import "assets/css/materialize.min.css";
+@import "assets/css/material-icons.css";
+@import "assets/css/fontawesome.min.css";
+@import "assets/css/fontawesome-all.min.css";
+@import "assets/css/fa-brands.min.css";
+@import "assets/css/fa-regular.min.css";
+@import "assets/css/fa-solid.min.css";
+@import "assets/css/pace-theme-minimal.css";
+@import "assets/css/palette.css";
+
